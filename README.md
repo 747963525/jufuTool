@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/assets/logo_with_text.png" alt="FreeTool Logo" width="500"/>
+  <img src="public/assets/logo_with_text.png" alt="jufuTool Logo" width="500"/>
 
   一个纯前端的多功能在线工具站，提供实用的日常工具。
 
@@ -84,7 +84,7 @@
 
 1. 克隆项目:
    ```bash
-   git clone https://github.com/zstar1003/FreeTool.git
+   git clone https://github.com/747963525/jufuTool.git
    cd FreeTool
    ```
 
@@ -98,7 +98,7 @@
    npm run dev
    ```
 
-4. 访问 `http://localhost:5173`
+4. 访问 `http://localhost:3000`
 
 ## 📦 构建生产版本
 
